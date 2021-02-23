@@ -1,6 +1,6 @@
 {
-  "name": "deploy-start-react-app",
-  "homepage": "https://samchanpanha.github.io/deploy-start-react-app/",
+  "name": "deploy-react-app",
+  "homepage": "https://samchanpanha.github.io/deploy-react-app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
